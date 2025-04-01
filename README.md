@@ -1,3 +1,4 @@
 # first-demo
 This is my Git first repository.
-Author-Muskan Singh.
+<br>
+Author-<i>Muskan Singh</i>.
